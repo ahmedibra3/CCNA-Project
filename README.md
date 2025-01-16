@@ -35,9 +35,10 @@ The project involves the following tasks:
 
 - `Project-CCNA.pdf`: The project requirements and instructions.
 - `fINAL_PROJECT.pkt`: The Cisco Packet Tracer file containing the network topology and configurations.
+-  `project-ccna.jpg`: Network Topology.
 
 ## How to Use This Repository
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/CCNA-Project.git
+   git clone https://github.com/ahmedibra3/CCNA-Project.git
